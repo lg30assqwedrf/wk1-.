@@ -5,7 +5,7 @@ import { getPlatformOrientationLockAsync } from 'expo/build/ScreenOrientation/Sc
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>110719009 劉博宇</Text>
+      <Text>110719009 劉博宇wk1</Text>
     </View>
   );
 }
